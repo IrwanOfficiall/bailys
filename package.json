@@ -1,22 +1,22 @@
 {
-    "name": "vialeys",
-    "version": "0.0.9",
+    "name": "LevviCodeID/Baileys",
+    "version": "1.0.0",
     "description": "A WebSockets library for interacting with WhatsApp Web",
     "keywords": [
         "whatsapp",
         "automation",
         "vialeys"
     ],
-    "homepage": "https://www.github.com/ramadanny/vialeys",
+    "homepage": "https://www.github.com/LevviCodeID/Baileys",
     "bugs": {
-        "url": "https://www.github.com/ramadanny/issues"
+        "url": "https://www.github.com/LevviCodeID/issues"
     },
     "repository": {
         "type": "git",
-        "url": "git+ssh://git@github.com/ramadanny/vialeys.git"
+        "url": "git+ssh://git@github.com/LevviCodeID/Baileys.git"
     },
     "license": "MIT",
-    "author": "ramadanny",
+    "author": "LevviCodeID",
     "main": "lib/index.js",
     "directories": {
         "lib": "lib"
@@ -40,7 +40,7 @@
         "@hapi/boom": "^9.1.3",
         "@adiwajshing/keyed-db": "^0.2.4",
         "@cacheable/node-cache": "1.5.3",
-        "libsignal": "github:ramadanny/libsignal-node",
+        "libsignal": "github:LevviCodeID/libsignal-node",
         "async-mutex": "^0.5.0",
         "audio-decode": "^2.2.2",
         "cache-manager": "^5.7.6",
@@ -59,7 +59,7 @@
         "@types/jest": "^29.5.14",
         "@types/node": "^16.0.0",
         "@types/ws": "^8.0.0",
-        "eslint-config": "github:ramadanny/eslint-config",
+        "eslint-config": "github:LevviCodeID/eslint-config",
         "conventional-changelog-cli": "^2.2.2",
         "eslint": "^8.0.0",
         "jest": "^30.1.1",
