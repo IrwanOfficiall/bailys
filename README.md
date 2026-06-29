@@ -3,7 +3,7 @@
 <div align="center">
 
 
-**LevviCode Baileys** is a fast, stable, and modern interactive-feature-focused WhatsApp Web API library built on WebSocket.
+**IrwanOfficial Baileys** is a fast, stable, and modern interactive-feature-focused WhatsApp Web API library built on WebSocket.
 
 </div>
 
