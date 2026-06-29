@@ -1,4 +1,4 @@
-# <div align='center'>LevviCode Baileys - A WebSockets library for interacting with WhatsApp Web</div>
+# <div align='center'>IrwanOfficial Baileys - A WebSockets library for interacting with WhatsApp Web</div>
 
 <div align="center">
 
@@ -40,9 +40,8 @@ import makeWASocket from 'LevviCodeID/Baileys'
 
 # Links
 
-- [WhatsApp](https://wa.me/628138045539)
-- [Telegram](https://t.me/lepicode)
-- [Docs](https://guide.whiskeysockets.io/)
+- [WhatsApp](https://wa.me/6283147562656)
+- [Telegram](https://t.me/IrwanOfficial)
 
 ## Connecting Account
 
@@ -2573,7 +2572,7 @@ conn.ws.on('CB:edge_routing,id:abcd,routing_info', (node: BinaryNode) => { })
 ```
 
 <div align="center">
-  <p>© 2026 Made With Love by <b>LevviCodeID</b></p>
+  <p>© 2026 Made With Love by <b>IrwanOfficial</b></p>
 </div>
 
 
